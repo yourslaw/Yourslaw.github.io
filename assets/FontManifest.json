@@ -1,0 +1,40 @@
+[
+    {
+        "fonts": [
+            {
+                "asset": "fonts/Cormorant-Light.otf",
+                "weight": 100
+            },
+            {
+                "asset": "fonts/Cormorant-Bold.otf",
+                "weight": 700
+            }
+        ],
+        "family": "Cormorant"
+    },
+    {
+        "fonts": [
+            {
+                "asset": "fonts/NanumSquareOTFLight.otf",
+                "weight": 100
+            },
+            {
+                "asset": "fonts/NanumSquareOTFRegular.otf",
+                "weight": 400
+            },
+            {
+                "asset": "fonts/NanumSquareOTFBold.otf",
+                "weight": 700
+            }
+        ],
+        "family": "NanumSquare"
+    },
+    {
+        "fonts": [
+            {
+                "asset": "fonts/MaterialIcons-Regular.ttf"
+            }
+        ],
+        "family": "MaterialIcons"
+    }
+]
