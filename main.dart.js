@@ -46422,7 +46422,7 @@ break}else{n=o.r
 n=n==null?null:n.length===0
 if(n!==!1){$.hR().aH("alert",["\ub0b4\uc6a9\uc744 \uc785\ub825\ud574\uc8fc\uc138\uc694"])
 s=1
-break}}}}T.kX(new O.yd(H.a(["cheyugy@naver.com"],t.i),"[\ubc95\ub960\uc0c1\ub2f4 \ubb38\uc758] "+H.b(o.f),"\uc720\uc5b4\uc2a4 \ud648\ud398\uc774\uc9c0\uc5d0\uc11c \uc791\uc131\ud55c \ubb38\uc758 \uba54\uc77c\uc785\ub2c8\ub2e4.\n\n\xb7 \uc791\uc131\uc790: "+H.b(o.d)+"\n\xb7 \uc774\uba54\uc77c: "+H.b(o.e)+"\n\n\n--------------------\n\n\n"+H.b(o.r)+"\n").i(0)).d3(new U.SG(),new U.SH(),t.P)
+break}}}}T.kX(new O.yd(H.a(["yours@yours.co.kr"],t.i),"[\ubc95\ub960\uc0c1\ub2f4 \ubb38\uc758] "+H.b(o.f),"\uc720\uc5b4\uc2a4 \ud648\ud398\uc774\uc9c0\uc5d0\uc11c \uc791\uc131\ud55c \ubb38\uc758 \uba54\uc77c\uc785\ub2c8\ub2e4.\n\n\xb7 \uc791\uc131\uc790: "+H.b(o.d)+"\n\xb7 \uc774\uba54\uc77c: "+H.b(o.e)+"\n\n\n--------------------\n\n\n"+H.b(o.r)+"\n").i(0)).d3(new U.SG(),new U.SH(),t.P)
 case 1:return P.al(q,r)}})
 return P.am($async$$0,r)},
 $S:29}
